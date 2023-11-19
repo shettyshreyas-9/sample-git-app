@@ -19,9 +19,13 @@ In the series, Sukuna's curse is contained within a collection of cursed fingers
 "Sukuna" is a central element in the narrative, contributing to the dark and action-packed atmosphere of "Jujutsu Kaisen." The character's design and abilities have made him a notable and memorable part of the series for fans of the manga and anime.
              """)
 
-st.header('"Sukuna" refers to Ryomen Sukuna')
+st.header('"Sukuna" refers to Ryomen Sukuna...!')
 st.subheader('- Ryomen Sukuna is a powerful and malevolent Cursed Spirit')
 st.subheader('- King of Curses')
+st.subheader("- Sukuna's fingers")
+
+st.header("Sukuna's quotes")
+st.subheader("- Know your place")
 
 
 
