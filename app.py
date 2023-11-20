@@ -39,3 +39,5 @@ st.sidebar.markdown('''
 
 st.sidebar.selectbox('Game Type',["story mode","one on one battle"])
 st.sidebar.button('Start')
+
+st.title('The Story mode begins...!')
