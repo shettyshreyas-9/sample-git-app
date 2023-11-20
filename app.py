@@ -28,4 +28,4 @@ st.header("Sukuna's quotes")
 st.subheader("- Know your place")
 
 
-
+st.sidebar.title('Powers')
