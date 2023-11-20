@@ -29,4 +29,9 @@ st.subheader("- Know your place")
 st.subheader("- What a waste of talent...")
 
 
-
+st.sidebar.title('Powers')
+st.sidebar.markdown('''
+- Domain Expansion: Malevolent Shrine
+- Curse Manipulation
+- Super Strength
+''')
