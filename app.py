@@ -26,6 +26,7 @@ st.subheader("- Sukuna's fingers")
 
 st.header("Sukuna's quotes")
 st.subheader("- Know your place")
+st.subheader("- What a waste of talent...")
 
 
 
