@@ -36,5 +36,8 @@ st.sidebar.markdown('''
 ''')
 
 
-st.sidebar.selectbox('Game Type',["story mode","one on one battle"])
-st.sidebar.button('Start')
+option = st.sidebar.selectbox('Game Type',["story mode","one on one battle"])
+btn = st.sidebar.button('Start')
+
+if btn:
+    st.title('Begin with ' + option)
